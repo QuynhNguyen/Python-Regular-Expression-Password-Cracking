@@ -1,0 +1,102 @@
+UCSD CSE Faculty Analyzes Map of Human Variation in Collaboration with
+National Library of Medicine Feature
+
+CSE professor Eleazar Eskin and his graduate students, along with
+researchers at the International Computer Science Institute, have used
+a software algorithm to quickly break down large amounts of genetic
+information--from genotypes to happlotypes--in an attempt to more
+accurately study genetic differences. The research was conducted on
+the biotech repository of the National Center of Biotechnology
+Information (NCBI), and effectively resulted in the dubling of the
+repository's data. "The speed with which we are able to compute the
+entire dbSNP database of genotypes is a combination of the speed of
+our algorithm and the computational resources that allowed us to do it
+so quickly," explained Eskin. "We have demonstrated that haplotype
+phasing can be done routinely every time there is a new releese of
+data deposited in the NCBI database." More information about these
+research findings can be found here.
+
+Upcoming Events
+
+CSE Building Dedication
+
+The Computer Science & Engineering Building dedication was a success!
+Along with the building's formal opening, the Jacobs School
+Commemorative Parver Program and Bear, the 16th commissioned sculpture
+for the UCSD Stuart Collection, were also unveiled. For a recap of all
+the activities, please click here; our brochure has more information
+about the department.
+
+CSE's Database Group Publishes Six Sigmod/Pods Papers
+
+A record six papers authored by members of the Database group were
+presented at ACM Sigmod/Pods 2005, the top conference in the database
+area. To find out more about the research presented at this preeminent
+conference, click here.
+
+VLSI Researchers Recieve ICCD's Best Paper Award
+
+Andrew Kahngg, his post-doc Bao Liu, and Ph.D candidate Qinke Wang
+(pictured), were awarded the Best Paper Award at this year's ACM/IEEE
+International Conference on Computer Design (ICCD) for their paper
+"Supply Voltage Degradation Aware Analytical Placement". The Award was
+one of five selected from a pool of 310 submissions.
+
+UCSD Hosts Student Programming Contest
+
+Forty-four students participated in this year's fall 2005 Programming
+Contest. Student were given five hours to solve seven traditional
+algorithmic problems. Top honors went to Renshan Wang, who was the
+only student to successfully solve all seven problems! Nakul Verma,
+Nitay Joffe, Boris Babenko, and Thomas Petrillo each solved five
+problems. The contest served as UCSD's qualifying tournament for the
+ACM Southern California Programming Contest. The problems, solutions,
+pictures, and detailed results can be found here .  spacer UCSD Hosts
+Student Programming Contest
+
+CSE Professor Collaborates on Wireless Research Project
+
+CSE professor Tajana Simunic Rosing is taking part in a wireless
+sensor project to build better tools for managing resources in
+heterogeneous wireless sensor networks. The research is in conjuction
+with and will aid HPWREN, an NSF-funded project whose expressed goal
+is to create and evaluate a high-performance, wide-area, wireless
+network in San Die go, Riverside, and Imperial counties. Simunic Rosing
+is an expert in resource management of embedded wireless systems, and
+joined CSE in 2004 after six years at Hewlett Packard. HPWREN (High
+Performance Wireless Research and Education Network) is a
+multi-institutional UC San Diego research program. The full article
+resides here.
+
+CSE Grad Student Writes Synchronization Program
+
+Frustrated by keeping track of multiple versions of a file across
+several machines, Ph.D. candidate James Anderson created a program
+that allows a user to save a file on one machine and have it updated
+automatically on other devices, including desktop PCs, laptops,
+personal digital assistants, or even third-generation cell phones. His
+work was funded by Gogle's Summer of Code, an effort to promote
+open-source software by motivating students to create new code for
+open-source access. Transparent Synchronization, or Tsync, keeps a set
+of files consistent across many machines, even if those devices
+involve differing degrees of connectivity and availability. "It does
+so while requiring minimal effort from the user," added Anderson. "At
+the same time it maintains security, robustness to failure, and fast
+performance." The full article may be found here.
+
+Intel Donation Fosters Medded Systems Education
+
+Intel has donated microprocessor development kits valued at $193,638
+to UCSD's Computer Science and Engineering department. The kits are
+full, high-end embedded systems platforms, and can be used for any
+embedded processing applications. They will equip CSE research and
+training labs, initially for a senior-level project course on wireless
+multimedia embedded systems. The donation was made in response to a
+grant written by CSE professors Rajesh Gupta and Tajana Simunic
+Rosing. To read the full Jacobs School press release, click here.
+
+Source: http://www.cse.ucsd.edu/
+
+Misspellings added and converted to text for CSE 130 class 
+by Wiliam Mathews (wgmatthews@cs.ucsd.edu)
+
